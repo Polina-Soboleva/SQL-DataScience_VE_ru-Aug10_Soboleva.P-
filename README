@@ -1,0 +1,6 @@
+Содержание:
+
+01-select-where-orderby-limit.sql Упражнения: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+02-joins-and-aggregations.sql     Упражнения: Join'ы и агрегации
+03-schema-design-ddl-crud.sql     Упражнения: проектирование схемы, DDL и CRUD
+04-student-grading-schema.sql     Проект: схема для оценок студентов
